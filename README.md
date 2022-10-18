@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--- ### Hi there 👋 -->
 
 <!--
 **djag07907/djag07907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Daniel Alvarez</h1>
+<h1 align="center">Hi 👋, I'm Daniel Alvarez!</h1>
 <h3 align="center">I'm a passionate Software Developer proficient in IT, UX / UI, Web and Mobile development with 3+ years of professional experience, fueled with a thirst for knowledge and self-taught capabilities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djag07907&label=Profile%20views&color=0e75b6&style=flat" alt="djag07907" /> </p>
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=djag07907&theme=default)
 <!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djag07907&langs_count=8)](https://github.com/djag07907) -->
- 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djag07907&theme=default)
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=djag07907&show_icons=true&locale=en" alt="djag07907" /></p>
 
