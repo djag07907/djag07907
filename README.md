@@ -59,8 +59,10 @@ Here are some ideas to get you started:
 
 <br><br>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djag07907&langs_count=8)](https://github.com/djag07907) <br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=djag07907&theme=default)
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djag07907&langs_count=8)](https://github.com/djag07907) -->
+ 
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=djag07907&show_icons=true&locale=en" alt="djag07907" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djag07907&" alt="djag07907" /></p>
