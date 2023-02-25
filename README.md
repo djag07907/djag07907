@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/djag07907?tab=repositories](https://github.com/djag07907?tab=repositories)
 
-- 📝 I'm working on writing articles and ebooks for every entry-level and junior software developer. [Site under construction](Site under construction)
+- 📝 I'm working on writing articles and ebooks for every entry-level and junior software developer. A personal blog would be coded later on. (https://es.community.revelo.com/author/djagdev/)
 
 - 💬 You can ask me about **HTML, CSS, JS, Kotlin and Flutter.**
 
