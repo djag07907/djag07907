@@ -30,15 +30,13 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **projects or companies that can both prove me a challenge and create a social impact.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/djag07907?tab=repositories](https://github.com/djag07907?tab=repositories)
-
 - 📝 I'm working on writing articles and ebooks for every entry-level and junior software developer. A personal blog would be coded later on. (https://es.community.revelo.com/author/djagdev/)
 
-- 💬 You can ask me about **HTML, CSS, JS, Kotlin and Flutter.**
+- 💬 You can ask me about **HTML, CSS, JS, Flutter, React, and Kotlin.**
 
 - 📫 You can reach me through my email **josamogax@gmail.com**
 
-- 📄 Know about my experiences [Site under construction](Site under construction)
+- 📄 Know about my experiences on my <a href="https://danielalvarez-dev.com/" target="_blank">Portfolio</a> 
 
 - ⚡ Fun fact **I'm a mix of rock, metal, classic, chef, IT, night owl, gamer, cold weather and dog person.**
 
