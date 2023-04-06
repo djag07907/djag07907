@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 📫 You can reach me through my email **josamogax@gmail.com**
 
-- 📄 Know about my experiences on my <a href="https://danielalvarez-dev.com/" target="_blank">Portfolio</a> 
+- 📄 Know about my experiences on my <a href="https://danielalvarez-dev.com/" target="_blank" >Portfolio</a> 
 
 - ⚡ Fun fact **I'm a mix of rock, metal, classic, chef, IT, night owl, gamer, cold weather and dog person.**
 
