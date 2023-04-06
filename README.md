@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/15211911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15211911" height="30" width="40" /></a>
 <a href="https://fb.com/daniel.alvarez.ephaestus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daniel.alvarez.ephaestus/" height="30" width="40" /></a>
 <a href="https://instagram.com/dalvarez_g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dalvarez_g/" height="30" width="40" /></a>
+<a href="skype:daniel.alvarez459?chat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="dalvarez_g/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
