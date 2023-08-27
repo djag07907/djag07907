@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Daniel Alvarez!</h1>
-<h3 align="center">I'm a passionate Software Developer proficient in IT, UX / UI, Web and Mobile development with 3+ years of professional experience, fueled with a thirst for knowledge and self-taught capabilities.</h3>
+<h3 align="center">I'm a FullStack Web and Mobile Developer proficient in IT, UX / UI, with 3+ years of professional experience, fueled with a thirst for knowledge and self-taught capabilities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djag07907&label=Profile%20views&color=0e75b6&style=flat" alt="djag07907" /> </p>
 
@@ -26,19 +26,19 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **several web and mobile applications.**
 
-- 🌱 I’m currently learning **React, TS and Astro.**
+- 🌱 I’m currently learning **Astro.**
 
 - 👯 I’m looking to collaborate on **projects or companies that can both prove me a challenge and create a social impact.**
 
 - 📝 I'm working on writing articles and ebooks for every entry-level and junior software developer. A personal blog would be coded later on. (https://es.community.revelo.com/author/djagdev/)
 
-- 💬 You can ask me about **HTML, CSS, JS, Flutter, React, and Kotlin.**
+- 💬 You can ask me about **HTML, CSS, JS, Flutter, React, React Native, Kotlin, TS, and PowerBi .**
 
 - 📫 You can reach me through my email **josamogax@gmail.com**
 
 - 📄 Know about my experiences on my <a href="https://danielalvarez-dev.com/" target="_blank" >Portfolio</a> 
 
-- ⚡ Fun fact **I'm a mix of rock, metal, classic, chef, IT, night owl, gamer, cold weather and dog person.**
+- ⚡ Fun fact **I'm a mix of rock, metal, classic, chef, IT, night owl, gamer, cold weather, and a dog person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
