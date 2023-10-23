@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Daniel Alvarez!</h1>
-<h3 align="center">I'm a FullStack Web and Mobile Developer proficient in IT, UX / UI, with 3+ years of professional experience, fueled with a thirst for knowledge and self-taught capabilities.</h3>
+<h1 align="center">Hello there👋!</h1>
+<h3 align="center">I'm a FullStack Web and Mobile Developer with 4+ years of professional experience, proficient in diverse software development technologies and UX / UI, while excelling in Software Development life cycle.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djag07907&label=Profile%20views&color=0e75b6&style=flat" alt="djag07907" /> </p>
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/djag07907" target="blank"><img src="https://img.shields.io/twitter/follow/djag07907?logo=twitter&style=for-the-badge" alt="djag07907" /></a> </p>
 
-- 🔭 I’m currently working on **several web and mobile applications.**
+- 🔭 I’m currently working on **several web and mobile applications/platforms.**
 
 - 🌱 I’m currently learning **Astro.**
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 📝 I'm working on writing articles and ebooks for every entry-level and junior software developer. A personal blog would be coded later on. (https://es.community.revelo.com/author/djagdev/)
 
-- 💬 You can ask me about **HTML, CSS, JS, Flutter, React, React Native, Kotlin, TS, and PowerBi .**
+- 💬 You can ask me about **HTML, CSS, JS, Flutter, React, React Native, Kotlin, TS, and PowerBi.**
 
 - 📫 You can reach me through my email **josamogax@gmail.com**
 
