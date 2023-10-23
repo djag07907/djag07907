@@ -70,7 +70,10 @@ Here are some ideas to get you started:
         width="40" height="40" /> </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-        alt="vuejs" width="40" height="40" /> </a>
+        alt="vuejs" width="40" height="40" /> </a> 
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="reactjs" width="40" height="40" /> </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
         src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"
         height="40" /> </a>
@@ -86,6 +89,9 @@ Here are some ideas to get you started:
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
         src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40"
         height="40" /> </a>
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+      alt="csharp" width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
         alt="bootstrap" width="40" height="40" /> </a>
@@ -101,6 +107,9 @@ Here are some ideas to get you started:
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
         height="40" /> </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      alt="aws" width="40" height="40" /> </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"
         width="40" height="40" /> </a>
