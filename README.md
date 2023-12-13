@@ -1,3 +1,6 @@
+[![](https://visitcount.itsvg.in/api?id=djag07907&icon=5&color=1)](https://visitcount.itsvg.in)
+---
+
 <h1 align="center">Hello there👋!</h1>
 <h3 align="center">I'm a FullStack Web and Mobile Developer with 4+ years of professional experience, proficient in diverse software development technologies and UX / UI, while excelling in Software Development life cycle.</h3>
 
@@ -21,7 +24,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=djag07907&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=djag07907&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
