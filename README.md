@@ -18,6 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=djag07907&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=djag07907&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djag07907&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djag07907&langs_count=4)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=djag07907&theme=radical&no-frame=false&no-bg=false&margin-w=4)
