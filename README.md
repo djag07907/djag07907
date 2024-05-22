@@ -2,7 +2,7 @@
 ---
 
 <h1 align="center">Hello there👋!</h1>
-<h3 align="center">I'm a FullStack Web and Mobile Developer with 4+ years of professional experience, proficient in diverse software development technologies and UX / UI, while excelling in Software Development life cycle.</h3> 
+<h3 align="center">I'm a FullStack Web and Mobile Developer with 4+ years of professional experience, proficient in diverse software development technologies and UX / UI, while excelling in Software Development life cycle.</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on several web and mobile applications/platforms to be released in 2024.<br>👯 I’m looking to collaborate on projects or companies that can both prove me a challenge and create a social impact.<br>📝 I'm working on writing articles and ebooks for every entry-level and junior software developer. A personal blog would be coded later on. (https://community.listopro.com/author/djagdev/)<br>💬 You can ask me about HTML, CSS, JS, Flutter, React, React Native, Kotlin, TS, and PowerBi.<br>📫 You can reach me through my email josamogax@gmail.com<br>📄 Know about my experiences on my Portfolio: (https://danielalvarez-dev.com/)<br>⚡ Fun fact I'm a mix of rock, metal, classic, chef, IT, night owl, gamer, cold weather, and a dog person
