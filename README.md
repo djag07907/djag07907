@@ -1,34 +1,115 @@
-[![](https://visitcount.itsvg.in/api?id=djag07907&icon=5&color=1)](https://visitcount.itsvg.in)
+<h1 align="center">👋 Hi, I'm Daniel Alvarez</h1>
+<h3 align="center">Fullstack Web & Mobile Software Engineer</h3>
+
+<p align="center">
+  I build clean, scalable, and user-focused applications for web and mobile.  
+  My focus is delivering reliable software with strong attention to detail in architecture, performance, and design.  
+</p>
+
 ---
 
-<h1 align="center">Hello there👋!</h1>
-<h3 align="center">I'm a FullStack Web and Mobile Software Engineer with over four years of professional experience, proficient in diverse software development technologies and UX / UI, while excelling in Software Development life cycle.</h3>
+## 💫 About me (short & real)
+I’ve been building fullstack products for a variety of teams — startups, agencies and internal product groups — for the past 4+ years.  
+I enjoy the full delivery cycle: turning ideas into working prototypes, shipping to production, and iterating with real users and metrics.
 
-# 💫 About Me:
-🔭 I’m currently working on several web and mobile applications/platforms to be released in 2025.<br>👯 I’m looking to collaborate on projects or companies that can both prove me a challenge and create a social impact.<br>📝 I'm working on writing articles and ebooks for every entry-level and junior software developer. A personal blog would be coded later on. (https://community.listopro.com/author/djagdev/)<br>💬 You can ask me about Flutter, React, React Native, Kotlin, TS, and PowerBi.<br>📫 You can reach me through my email josamogax@gmail.com<br>📄 Know about my experiences on my Portfolio: (https://danielalvarez-dev.com/)<br>⚡ Fun fact I'm a mix of rock, metal, classic, chef, IT, night owl, gamer, cold weather, and a dog person
+**What I bring to a project**
+- Reliable cross-platform mobile apps (Flutter / React Native).  
+- Modern, SEO-friendly web apps (Next.js / Angular).  
+- Well-tested, maintainable APIs (Node.js + TypeScript, Strapi).  
+- Pragmatic cloud solutions (Firebase, AWS) and relational databases (Postgres / MySQL).  
+- Clear handoffs and design collaboration (Figma → code).
 
+<details>
+  <summary><strong>How I usually work (click to expand)</strong></summary>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dalvarez_g/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/djag-dev) 
+  - Start with the product goal and user outcomes → keep feature scope tight.  
+  - Quick proof-of-concept to validate assumptions, then iterate.  
+  - Modular architecture: small services/components that are easy to test and maintain.  
+  - CI/CD, automated testing, monitoring and staged rollouts for production stability.  
+  - Close collaboration with designers, PMs and QA to speed up delivery without sacrificing quality.
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat&logo=strapi&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djag07907)](https://github.com/anuraghazra/github-readme-stats)-->
-![](https://github-readme-stats.vercel.app/api?username=djag07907&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<!--- ![](https://github-readme-streak-stats.herokuapp.com/?user=djag07907&theme=dark&hide_border=false)<br/> -->
-![djag07907's Streak](https://github-readme-streak-stats.herokuapp.com/?user=djag07907&theme=radical&hide_border=true)
-<!--- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=djag07907&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
-<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djag07907&layout=compact)-->
-<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djag07907&langs_count=10)-->
-![djag07907's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djag07907&theme=radical&show_icons=true&hide_border=true&layout=compact)
+</details>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=djag07907&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 
-<!-- ### 🔝 Top Contributed Repo -->
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=djag07907&theme=radical&combine_all_yearly_contributions=true) -->
+## 🌐 Socials
+<p align="center">
+  <a href="https://linkedin.com/in/djag-dev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/dalvarez_g"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
+---
 
+## 💻 Tech stack (grouped — concise)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Mobile -->
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter" alt="Flutter" />
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react" alt="React Native" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin" alt="Kotlin" />
+
+<!-- Web -->
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" alt="Next.js" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular" alt="Angular" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" alt="React" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite" alt="Vite" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS" />
+
+<!-- Backend & Languages -->
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js" alt="Node.js" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi" alt="Strapi" />
+
+<!-- Cloud & Databases -->
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" alt="Firebase" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" alt="Postgres" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" alt="MySQL" />
+
+<!-- CMS & Design -->
+<img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress" alt="WordPress" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma" alt="Figma" />
+
+<!-- Core web -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript" />
+
+</div>
+
+---
+
+## 📊 Work by tech (distribution)
+> Note: charts are generated with QuickChart. They may not show in some editors' previews, but they render correctly when the README is viewed on GitHub or when you open the image URL directly.
+
+<p align="center">
+  <!-- Pie: distribution of time/project focus -->
+  <img alt="Work distribution by tech" src="https://quickchart.io/chart?c={
+    type:'pie',
+    data:{labels:['Flutter','React Native','Next.js','Angular','Node.js','Firebase'],
+          datasets:[{data:[25,20,15,15,15,10],backgroundColor:['%2302569B','%2361DAFB','%23000000','%23DD0031','%2343853D','%23FFCA28']}]},
+    options:{plugins:{legend:{position:'bottom'}}}
+  }" height="300" />
+</p>
+
+<p align="center">
+  <!-- Bar: years of experience per main tech -->
+  <img alt="Years of experience per tech" src="https://quickchart.io/chart?c={
+    type:'bar',
+    data:{labels:['Flutter','React Native','Next.js','Angular','Node.js','Firebase'],
+          datasets:[{label:'Years',data:[4,3,3,4,4,4]}]},
+    options:{scales:{y:{beginAtZero:true,ticks:{stepSize:1}}},plugins:{legend:{display:false}}}
+  }" height="300" />
+</p>
+
+---
+
+## 📈 GitHub / Profile
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=djag07907&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djag07907&theme=tokyonight&hide_border=true" height="170" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djag07907&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" height="150" alt="top languages" />
+</p>
