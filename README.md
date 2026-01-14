@@ -83,9 +83,9 @@ I enjoy the full delivery cycle: turning ideas into working prototypes, shipping
 
 | Technology | Experience | Focus |
 |------------|------------|-------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="20" /> **Flutter** | 4 years | Cross-platform web and mobile apps |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="20" /> **Flutter** | 5 years | Cross-platform web and mobile apps |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" /> **React Native** | 3 years | Native mobile development |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20" /> **Next.js** | 3 years | SEO-optimized web apps |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20" /> **Next.js** | 5 years | SEO-optimized web apps |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="20" /> **Angular** | 2 years | Enterprise web applications |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" /> **Node.js** | 4 years | Backend APIs & microservices |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20" /> **Firebase** | 4 years | Real-time data & auth |
