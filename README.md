@@ -9,7 +9,7 @@
 ---
 
 ## 💫 About me (short & real)
-I’ve been building fullstack products for a variety of teams — startups, agencies and internal product groups — for the past 4+ years.  
+I've been building fullstack products for a variety of teams — startups, agencies and internal product groups — for the past 5+ years.  
 I enjoy the full delivery cycle: turning ideas into working prototypes, shipping to production, and iterating with real users and metrics.
 
 **What I bring to a project**
@@ -79,37 +79,52 @@ I enjoy the full delivery cycle: turning ideas into working prototypes, shipping
 
 ---
 
-## 📊 Work by tech (distribution)
-> Note: charts are generated with QuickChart. They may not show in some editors' previews, but they render correctly when the README is viewed on GitHub or when you open the image URL directly.
+## 📊 Experience & Focus Areas
+
+| Technology | Experience | Focus |
+|------------|------------|-------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="20" /> **Flutter** | 4 years | Cross-platform web and mobile apps |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" /> **React Native** | 3 years | Native mobile development |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20" /> **Next.js** | 3 years | SEO-optimized web apps |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="20" /> **Angular** | 2 years | Enterprise web applications |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" /> **Node.js** | 4 years | Backend APIs & microservices |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="20" /> **Firebase** | 4 years | Real-time data & auth |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" /> **PostgreSQL** | 4 years | Relational databases |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20" /> **AWS** | 2 years | Cloud infrastructure |
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <!-- Pie: distribution of time/project focus -->
-  <img alt="Work distribution by tech" src="https://quickchart.io/chart?c={
-    type:'pie',
-    data:{labels:['Flutter','React Native','Next.js','Angular','Node.js','Firebase'],
-          datasets:[{data:[25,20,15,15,15,10],backgroundColor:['%2302569B','%2361DAFB','%23000000','%23DD0031','%2343853D','%23FFCA28']}]},
-    options:{plugins:{legend:{position:'bottom'}}}
-  }" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=djag07907&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <!-- Bar: years of experience per main tech -->
-  <img alt="Years of experience per tech" src="https://quickchart.io/chart?c={
-    type:'bar',
-    data:{labels:['Flutter','React Native','Next.js','Angular','Node.js','Firebase'],
-          datasets:[{label:'Years',data:[4,3,3,4,4,4]}]},
-    options:{scales:{y:{beginAtZero:true,ticks:{stepSize:1}}},plugins:{legend:{display:false}}}
-  }" height="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djag07907&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=djag07907&theme=tokyonight" height="200" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djag07907&theme=tokyonight" height="200" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=djag07907&theme=tokyonight" height="200" alt="Productive Time" />
+</p>
+
+<div align="center">
+
+**Note:** The language charts above aggregate data from all my repositories (public & private). The pie charts show percentage distribution visually through slice sizes.
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=djag07907&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
 
-## 📈 GitHub / Profile
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djag07907&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djag07907&theme=tokyonight&hide_border=true" height="170" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djag07907&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" height="150" alt="top languages" />
+  <i>Open to collaborating on interesting projects — let's build something great together!</i>
 </p>
