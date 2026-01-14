@@ -11,6 +11,7 @@
 
 ## About me (short & real)
 I've been building fullstack products for a variety of teams — startups, agencies and internationall product groups — for the past 5+ years.  
+
 I enjoy the full delivery cycle: turning ideas into working prototypes, shipping to production, and iterating with real users and metrics.
 
 **What I bring to a project**
