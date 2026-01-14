@@ -1,15 +1,16 @@
 <h1 align="center">👋 Hi, I'm Daniel Alvarez</h1>
 <h3 align="center">Fullstack Web & Mobile Software Engineer</h3>
+<h4 align="center">"Crafting solutions that matter — because how you do anything is how you do everything."</h2>
 
 <p align="center">
-  I build clean, scalable, and user-focused applications for web and mobile.  
-  My focus is delivering reliable software with strong attention to detail in architecture, performance, and design.  
+  I specialize in the design, development, and refinement of web and mobile software solutions.<br>
+  Building clean, scalable, and user-focused applications with strong attention to detail in architecture, performance, and design.
 </p>
 
 ---
 
-## 💫 About me (short & real)
-I've been building fullstack products for a variety of teams — startups, agencies and internal product groups — for the past 5+ years.  
+## About me (short & real)
+I've been building fullstack products for a variety of teams — startups, agencies and internationall product groups — for the past 5+ years.  
 I enjoy the full delivery cycle: turning ideas into working prototypes, shipping to production, and iterating with real users and metrics.
 
 **What I bring to a project**
@@ -17,16 +18,17 @@ I enjoy the full delivery cycle: turning ideas into working prototypes, shipping
 - Modern, SEO-friendly web apps (Next.js / Angular).  
 - Well-tested, maintainable APIs (Node.js + TypeScript, Strapi).  
 - Pragmatic cloud solutions (Firebase, AWS) and relational databases (Postgres / MySQL).  
-- Clear handoffs and design collaboration (Figma → code).
+- Clear handoffs and design collaboration (Figma/Stitch → code).
 
 <details>
   <summary><strong>How I usually work (click to expand)</strong></summary>
 
-  - Start with the product goal and user outcomes → keep feature scope tight.  
-  - Quick proof-of-concept to validate assumptions, then iterate.  
-  - Modular architecture: small services/components that are easy to test and maintain.  
-  - CI/CD, automated testing, monitoring and staged rollouts for production stability.  
-  - Close collaboration with designers, PMs and QA to speed up delivery without sacrificing quality.
+  - Gather requirements and understand user needs to define clear project scope.
+  - Create concepts and design/prototype solutions before diving into code.
+  - Build with modular architecture: small services/components that are easy to test and maintain.
+  - Implement CI/CD pipelines, automated testing, and monitoring for production stability.
+  - Continuously develop new features while improving and maintaining legacy codebases.
+  - Close collaboration with designers, PMs, and QA to speed up delivery without sacrificing quality.
 
 </details>
 
@@ -35,7 +37,7 @@ I enjoy the full delivery cycle: turning ideas into working prototypes, shipping
 ## 🌐 Socials
 <p align="center">
   <a href="https://linkedin.com/in/djag-dev"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/dalvarez_g"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://instagram.com/dalvarez1ng"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
@@ -101,16 +103,16 @@ I enjoy the full delivery cycle: turning ideas into working prototypes, shipping
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djag07907&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards-eight-lyart.vercel.app/api/cards/profile-details?username=djag07907&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=djag07907&theme=tokyonight" height="200" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djag07907&theme=tokyonight" height="200" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards-eight-lyart.vercel.app/api/cards/repos-per-language?username=djag07907&theme=tokyonight" height="200" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards-eight-lyart.vercel.app/api/cards/most-commit-language?username=djag07907&theme=tokyonight" height="200" alt="Top Languages by Commit" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=djag07907&theme=tokyonight" height="200" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards-eight-lyart.vercel.app/api/cards/productive-time?username=djag07907&theme=tokyonight" height="200" alt="Productive Time" />
 </p>
 
 <div align="center">
